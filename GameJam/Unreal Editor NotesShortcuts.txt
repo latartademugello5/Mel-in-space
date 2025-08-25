@@ -1,0 +1,8 @@
+Unreal Editor Notes/Shortcuts
+
+Move - W
+Rotate - E
+Scale - R
+
+Z-splashing
+Objects in the same place, where the program doesn't know which one to render
